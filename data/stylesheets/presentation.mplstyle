@@ -1,0 +1,5 @@
+figure.figsize : 12.8, 9.6
+font.size : 20
+
+# image saving
+savefig.format: png

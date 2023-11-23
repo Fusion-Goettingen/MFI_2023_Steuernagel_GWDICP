@@ -1,0 +1,5 @@
+font.size : 32
+font.family : serif
+font.sans-serif : Palatino
+savefig.format: svg
+figure.figsize : 12.8, 9.6
